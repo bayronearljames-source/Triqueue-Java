@@ -1,0 +1,8 @@
+ROUTE|Terminal to Poblacion|15.00|40.00
+ROUTE|Terminal to Public Market|12.00|30.00
+ROUTE|Terminal to School|10.00|25.00
+ROUTE|Terminal to Barangay Hall|20.00|50.00
+DISCOUNT|Regular|0
+DISCOUNT|Student|20
+DISCOUNT|Senior|20
+DISCOUNT|PWD|20
